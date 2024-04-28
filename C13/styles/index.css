@@ -1,0 +1,48 @@
+nav {
+  display: flex;
+  flex-direction: row;
+  background-color: #eeeeee;
+  width: 100%;
+  padding: 10px;
+}
+
+a {
+  margin-right: 20px;
+}
+
+header {
+  width: 100%;
+}
+
+body {
+  width: 100%;
+  overflow-x: hidden;
+}
+
+.div-3-flex {
+  display: flex;
+  flex-direction: row;
+  margin-right: 10px;
+}
+
+img {
+  margin-right: 10px;
+}
+
+.div-header {
+    background-color: #EEEEEE;
+    height: 100px;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+}
+
+p {
+    color: #7979A2;
+}
+
+a {
+    color: #797979; 
+}
